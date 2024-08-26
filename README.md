@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @skhatri007
-- 👀 I’m interested in ...computational biology
+- 👋 Hi, I’m Shantanu Khatri
+- 👀 I’m a computational structural biologist
 - 📫 How to reach me ...shantanukhatri007@gmail.com
